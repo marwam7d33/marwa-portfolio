@@ -31,6 +31,10 @@ body {
   @apply text-zinc-900 duration-500;
 }
 
-.navbar.active-box {
-  @apply absolute bg-zinc-50 rounded-lg -z-10 transition-[top,left] duration-500;
+.navbar .active-box {
+  @apply absolute top-2 left-2 right-2 h-9 bg-zinc-50 rounded-lg -z-10 transition-[top,left];
+}
+
+.navbar.active .active-box {
+  @apply bg-white;
 }

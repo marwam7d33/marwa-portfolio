@@ -71,11 +71,14 @@ const Navbar = ({ navOpen }) => {
 
   const initActiveBox = () => {
     if (lastActiveLink.current) {
+      console.log("Active Link:", lastActiveLink.current);
       activeBox.current.style.top = lastActiveLink.current.offsetTop + "px";
       activeBox.current.style.left = lastActiveLink.current.offsetLeft + "px";
       activeBox.current.style.width = lastActiveLink.current.offsetWidth + "px";
       activeBox.current.style.height =
         lastActiveLink.current.offsetHeight + "px";
+    } else {
+      console.error("No active link found!");
     }
   };
 
