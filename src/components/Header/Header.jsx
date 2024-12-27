@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 import Navbar from "../Navbar/Navbar";
-
+import Hero from "../Hero";
 function Header() {
   const [navOpen, setNavOpen] = useState(false);
   return (
