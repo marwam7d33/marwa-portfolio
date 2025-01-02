@@ -1,5 +1,4 @@
-import React from "react";
-
+import { ButtonPrimary, ButtonOutline } from "./Button.jsx";
 const Hero = () => {
   return (
     <section id="hero" className="pt-28 lg:pt-36">
@@ -31,7 +30,12 @@ const Hero = () => {
             Building Scalable Modern Websites for the Future
           </h2>
           <div className="flex items-center gap-3">
-            ButtonPrimary ButtonOutline
+            <ButtonPrimary label="Download Resume" icon="download" />{" "}
+            <ButtonOutline
+              href="#about"
+              label="Scroll Down"
+              icon="arrow_downward"
+            />
           </div>
         </div>
 

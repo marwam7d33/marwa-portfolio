@@ -1,14 +1,13 @@
 import Header from "./components/Header/Header";
 import Hero from "./components/Hero";
-
-import React from "react";
-
+import About from "./components/About";
 function App() {
   return (
     <>
       <Header />
       <main>
         <Hero />
+        <About />
       </main>
       ;
     </>
