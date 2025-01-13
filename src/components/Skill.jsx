@@ -43,11 +43,10 @@ const skillItem = [
     desc: "User Interface",
   },
   {
-    imgSrc: "/images/mysql.svg",
+    imgSrc: "",
     label: "MySQL",
     desc: "User Interface",
   },
-
 ];
 
 const Skill = () => {
