@@ -14,7 +14,7 @@ const skillItem = [
   {
     imgSrc: "/images/scss.svg",
     label: "SCSS",
-    desc: "User Interface",
+    desc: "CSS Preprocessor",
   },
 
   {
@@ -43,9 +43,9 @@ const skillItem = [
     desc: "User Interface",
   },
   {
-    imgSrc: "",
+    imgSrc: "/images/mysql.svg",
     label: "MySQL",
-    desc: "User Interface",
+    desc: "Relational Database",
   },
 ];
 
