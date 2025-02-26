@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Add any custom styles below */
 html {
   scroll-behavior: smooth;
 }
@@ -11,12 +10,10 @@ body {
   @apply bg-zinc-900 text-zinc-50 h-[200vh];
 }
 
-/* //typography// */
 .headline-1 {
   @apply max-w-max;
   background: -webkit-linear-gradient(0deg, #fafafa, #a1a1aa);
   -webkit-background-clip: text;
-  /* added the below line to remove error  */
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
