@@ -14,10 +14,10 @@ const works = [
     projectLink: "https://habitlink.netlify.app/",
   },
   {
-    imgSrc: "/images/project-3.jpg",
-    title: "Recipe app",
-    tags: ["Development", "API"],
-    projectLink: "",
+    imgSrc: "/images/project-3.png",
+    title: "Band-site",
+    tags: ["BEM", "CSS", "HTML"],
+    projectLink: "https://bandsitev2.netlify.app/",
   },
   {
     imgSrc: "/images/project-4.jpg",
