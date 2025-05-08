@@ -20,10 +20,10 @@ const works = [
     projectLink: "https://bandsitev2.netlify.app/",
   },
   {
-    imgSrc: "/images/project-4.jpg",
-    title: "Real state website",
-    tags: ["Web-design", "Development"],
-    projectLink: "https://github.com/codewithsadee-org/wealthome",
+    imgSrc: "/images/project-4.png",
+    title: "Brainflix",
+    tags: ["Javascript", "SCSS", "HTML", "Development"],
+    projectLink: "https://marwa-mohamed-brainflix.onrender.com/",
   },
   {
     imgSrc: "/images/project-5.jpg",
