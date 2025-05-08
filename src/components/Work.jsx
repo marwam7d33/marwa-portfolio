@@ -26,10 +26,10 @@ const works = [
     projectLink: "https://marwa-mohamed-brainflix.onrender.com/",
   },
   {
-    imgSrc: "/images/project-5.jpg",
-    title: "eCommerce website",
-    tags: ["eCommerce", "Development"],
-    projectLink: "https://github.com/codewithsadee/anon-ecommerce-website",
+    imgSrc: "/images/project-5.png",
+    title: "Minimal Weather App",
+    tags: ["API", "ReactJs", "SCSS"],
+    projectLink: "https://github.com/marwam7d33/Simple-Weather-App/tree/main",
   },
   {
     imgSrc: "/images/project-6.jpg",
