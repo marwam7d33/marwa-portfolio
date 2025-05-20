@@ -22,19 +22,17 @@ const About = () => {
             className="text-zinc-300 mb-4 md:mb-8
         md:text-xl md:max-w-[60ch]"
           >
-            Hey there! My name is Marwa, a dedicated web developer with a
-            passion for creating intuitive and visually captivating websites and
-            apps. My journey into development started after delving into the
-            digital marketing industry, where I gained valuable experience in
-            building digital marketplaces, enhancing sales strategies, and
-            working with e-commerce platforms.
+            Hi 👋 I’m Marwa, a web developer with a foundation in computer
+            science and a passion for building intuitive, visually engaging
+            websites and apps. That early exposure, combined with hands-on
+            experience in digital marketing, building digital marketplaces,
+            optimizing e-commerce strategies, and driving growth naturally led
+            me to web development.
             <br /> <br />
             <p>
-              This experience sparked my interest in web development, and I
-              transitioned to coding websites and apps from scratch. Whether I’m
-              building dynamic websites or sharing what I’ve learned through
-              blogging, I love turning ideas into meaningful connections. Let’s
-              create something that informs, inspires, and leaves an impact{" "}
+              Over time, I transitioned from customizing platforms to coding
+              full websites and apps from scratch, turning ideas into impactful
+              digital experiences.{" "}
             </p>
           </p>
           <div

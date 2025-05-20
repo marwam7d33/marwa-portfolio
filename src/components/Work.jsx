@@ -23,19 +23,19 @@ const works = [
     imgSrc: "/images/project-4.png",
     title: "Brainflix",
     tags: ["Javascript", "SCSS", "HTML", "Development"],
-    projectLink: "https://marwa-mohamed-brainflix.onrender.com/",
+    projectLink: "https://github.com/marwam7d33/marwa-mohamed-brainflix",
   },
   {
     imgSrc: "/images/project-5.png",
     title: "Minimal Weather App",
     tags: ["API", "ReactJs", "SCSS"],
-    projectLink: "https://github.com/marwam7d33/Simple-Weather-App/tree/main",
+    projectLink: "https://heywhatsweatherlike.netlify.app/",
   },
   {
     imgSrc: "/images/project-6.jpg",
-    title: "vCard Personal portfolio",
-    tags: ["Web-design", "Development"],
-    projectLink: "https://github.com/codewithsadee/vcard-personal-portfolio",
+    title: "Inventory Tracker",
+    tags: ["MySQL", "Javascript", "SCSS"],
+    projectLink: "https://github.com/marwam7d33/instock-denali-client",
   },
 ];
 
